@@ -1,4 +1,5 @@
 def make_upper_case(string):
+
     """
     Function to make uppercase text
     :param string:
@@ -14,3 +15,5 @@ def make_capitalize(string):
     :return:
     """
     return string.capitalize()
+
+
